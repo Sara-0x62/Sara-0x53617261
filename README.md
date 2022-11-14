@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sara-0x53617261 - or short just Sara, i also go by "Sain"
+- 👀 I’m interested in "Offensive Cyber Security" and writing tools related to that, another interested is Game hacking
+- 🌱 I’m currently reading through the "gamehacking.academy" lessons and trying to translate those into Rust
+- 🦀 Rustacean in progress, I am currently learning Rust after mainly using Python 
+-    I do have a bit of experience with most other common languages (C, C++, Java, C#, ...) so i can understand them if i read those too.
