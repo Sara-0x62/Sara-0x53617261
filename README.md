@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-0x62&show_icons=true&theme=synthwave)
+
 - 👋 Hi, I’m @Sara-0x62 - or short just Sara, i also go by "Sain"
 - 👀 I’m interested in "Offensive Cyber Security" and writing tools related to that, another interested is Game hacking
 - 🌱 Currently not really focused on anything specific, just playing with Rust
