@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sara-0x53617261 - or short just Sara, i also go by "Sain"
+- 👋 Hi, I’m @Sara-0x62 - or short just Sara, i also go by "Sain"
 - 👀 I’m interested in "Offensive Cyber Security" and writing tools related to that, another interested is Game hacking
 - 🌱 Currently not really focused on anything specific, just playing with Rust
 - 🦀 Rustacean in progress, I am currently learning Rust after mainly using Python 
