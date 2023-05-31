@@ -7,4 +7,4 @@
 [[My website](https://sara98sain.wixsite.com/sara0x62)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sara-0x62&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-0x62&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-0x62&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
